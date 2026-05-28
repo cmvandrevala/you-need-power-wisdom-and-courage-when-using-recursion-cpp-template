@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "src/hello.hpp"
+#include "src/triforce.hpp"
 
 int main() {
-  std::cout << hello() << std::endl;
+  std::cout << triforce() << std::endl;
 }
